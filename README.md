@@ -16,5 +16,3 @@ I'm aiming to pursue a role as a SOC Analyst where I can explore my passion for 
 | Skill                             | Associated Project                             |
 |-----------------------------------|------------------------------------------------|
 | Log Analysis and Threat Detection | <a href="https://google.com">Detection Lab</a> |
-|                                   |                                                |
-|                                   |                                                |
