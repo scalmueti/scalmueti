@@ -4,7 +4,7 @@
 
 I am an upcoming graduate in cybersecurity with a passion for technology, security, problem-solving, and creating programs.
 
-- 🔭 I’m currently working on **Log Analysis and Threat Detection with ELK Stack**
+- 🔭 I’m currently working on **Log Analysis with ELK Stack**
 - 🌱 I’m currently learning **SIEM, C++, Python**
 
 ## Objective
