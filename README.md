@@ -9,7 +9,7 @@ I am an upcoming graduate in cybersecurity with a passion for technology, securi
 
 ## Objective
 
-I'm aiming to pursue a role as a SOC Analyst where I can explore my passion for cybersecurity, work on analyzing threats, improving security processes, and helping keep organizations safe.
+I'm aiming to pursue a role in IT/cyber where I can explore my passion for cybersecurity, work on analyzing threats, improving security processes, and helping keep organizations safe.
 
 ## Skills
 
